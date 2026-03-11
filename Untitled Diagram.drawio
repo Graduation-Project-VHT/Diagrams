@@ -1,14 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="IB1kbc6ErV841dI-TRHU">
-    <mxGraphModel dx="619" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1515" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lUfliBuRc_4DtS5qPlAV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="&lt;b&gt;SIMULATION ENGINE&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="280" x="200" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="lUfliBuRc_4DtS5qPlAV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="LTE Frame/Subframe Time Manager" vertex="1">
-          <mxGeometry height="60" width="280" x="200" y="280" as="geometry" />
+        <mxCell id="lUfliBuRc_4DtS5qPlAV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="LTE Frame/&lt;br&gt;Subframe Time Manager" vertex="1">
+          <mxGeometry height="60" width="200" x="-40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="UE Manager/&lt;div&gt;L2 State&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Traffic Generator&lt;br&gt;(CBR/VoIP/video/BE)" vertex="1">
+          <mxGeometry height="60" width="200" x="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="CQI Engine&lt;br&gt;(per UE, per subframe)" vertex="1">
+          <mxGeometry height="60" width="200" x="360" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
