@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="IB1kbc6ErV841dI-TRHU">
+    <mxGraphModel dx="731" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lUfliBuRc_4DtS5qPlAV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;SIMULATION ENGINE&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lUfliBuRc_4DtS5qPlAV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LTE Frame/Subframe Time Manager" vertex="1">
+          <mxGeometry height="60" width="280" x="200" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
