@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="IB1kbc6ErV841dI-TRHU">
-    <mxGraphModel dx="1624" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,10 +33,10 @@
           <mxGeometry height="60" width="280" x="200" y="160" as="geometry" />
         </mxCell>
         <mxCell id="lUfliBuRc_4DtS5qPlAV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="LTE Frame/&lt;br&gt;Subframe Time Manager" vertex="1">
-          <mxGeometry height="60" width="200" x="-40" y="160" as="geometry" />
+          <mxGeometry height="80" width="140" x="-40" y="150" as="geometry" />
         </mxCell>
         <mxCell id="hXD1Qv4FNHqutU02IV_6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="UE Manager/&lt;div&gt;L2 State&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="160" as="geometry" />
         </mxCell>
         <mxCell id="hXD1Qv4FNHqutU02IV_6-17" edge="1" parent="1" source="hXD1Qv4FNHqutU02IV_6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hXD1Qv4FNHqutU02IV_6-4">
           <mxGeometry relative="1" as="geometry" />
@@ -82,6 +82,21 @@
         </mxCell>
         <mxCell id="hXD1Qv4FNHqutU02IV_6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="Scenario / Config Manager" vertex="1">
           <mxGeometry height="60" width="240" x="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Simulation config" vertex="1">
+          <mxGeometry height="30" width="108" x="340" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Time tick/&lt;br&gt;Time&amp;nbsp; context" vertex="1">
+          <mxGeometry height="30" width="78" x="110" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UE state update" vertex="1">
+          <mxGeometry height="30" width="108" x="477" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Current TTI + Traffic model" vertex="1">
+          <mxGeometry height="30" width="90" x="220" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="hXD1Qv4FNHqutU02IV_6-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Current TTI + Channel model" vertex="1">
+          <mxGeometry height="30" width="90" x="363" y="224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
