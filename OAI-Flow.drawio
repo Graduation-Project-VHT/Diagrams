@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="IELtvWDcRqhtW5jzW159">
-    <mxGraphModel dx="1564" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,6 @@
         <mxCell id="TjMEG5MHpTgKvhuxPAgl-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="Scheduling Algorithm&lt;div&gt;(RR, PF, MaxCI, Qos-Aware, AI)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="240" x="520" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="TjMEG5MHpTgKvhuxPAgl-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Capture&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;metrics&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="50" y="579" as="geometry" />
-        </mxCell>
         <mxCell id="TjMEG5MHpTgKvhuxPAgl-26" edge="1" parent="1" source="TjMEG5MHpTgKvhuxPAgl-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="TjMEG5MHpTgKvhuxPAgl-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -67,9 +64,6 @@
         <mxCell id="TjMEG5MHpTgKvhuxPAgl-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="CQI, Queue status, Delay, Traffic type" vertex="1">
           <mxGeometry height="30" width="120" x="682" y="664" as="geometry" />
         </mxCell>
-        <mxCell id="TjMEG5MHpTgKvhuxPAgl-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Run" vertex="1">
-          <mxGeometry height="30" width="75" x="442" y="579" as="geometry" />
-        </mxCell>
         <mxCell id="TjMEG5MHpTgKvhuxPAgl-28" edge="1" parent="1" source="TjMEG5MHpTgKvhuxPAgl-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="TjMEG5MHpTgKvhuxPAgl-27" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -85,8 +79,44 @@
         <mxCell id="TjMEG5MHpTgKvhuxPAgl-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Throughput, Delay, fairness, RB usage, CQI per UE, ..." vertex="1">
           <mxGeometry height="30" width="160" x="-160" y="664" as="geometry" />
         </mxCell>
+        <mxCell id="TjMEG5MHpTgKvhuxPAgl-34" edge="1" parent="1" source="TjMEG5MHpTgKvhuxPAgl-12" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="920" as="sourcePoint" />
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjMEG5MHpTgKvhuxPAgl-35" edge="1" parent="1" source="TjMEG5MHpTgKvhuxPAgl-22" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="920" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjMEG5MHpTgKvhuxPAgl-36" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashPattern=8 8;" target="TjMEG5MHpTgKvhuxPAgl-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="920" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TjMEG5MHpTgKvhuxPAgl-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Read&lt;div&gt;final&lt;/div&gt;&lt;div&gt;RB assignment&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="425" y="770" as="geometry" />
+          <mxGeometry height="60" width="120" x="420.5" y="756" as="geometry" />
+        </mxCell>
+        <mxCell id="TjMEG5MHpTgKvhuxPAgl-37" edge="1" parent="1" source="TjMEG5MHpTgKvhuxPAgl-33" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashPattern=8 8;" target="TjMEG5MHpTgKvhuxPAgl-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="756" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjMEG5MHpTgKvhuxPAgl-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Run" vertex="1">
+          <mxGeometry height="30" width="75" x="443" y="571" as="geometry" />
+        </mxCell>
+        <mxCell id="TjMEG5MHpTgKvhuxPAgl-38" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashPattern=8 8;" target="TjMEG5MHpTgKvhuxPAgl-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="920" as="sourcePoint" />
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjMEG5MHpTgKvhuxPAgl-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Capture&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;metrics&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="180" x="70" y="576" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
