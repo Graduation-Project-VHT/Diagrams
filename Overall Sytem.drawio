@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="LhuuYM8hpwFlG-GgJCtv">
-    <mxGraphModel dx="1768" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,6 +79,27 @@
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="S1 - GPT-U" vertex="1">
           <mxGeometry height="40" width="70" x="527" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ue_manager.py&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;UE management&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="760" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="200" width="200" x="520" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;traffic_gen.py&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="565" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;iperf3&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Traffic genrator&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="540" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;metrics push&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="540" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=11;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;CSV log&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;DL_scheduler_log.csv&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;UL_scheduler_log.csv&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="160" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;evaluation_metrics.py&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Total cell throughput&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Per-UE throughput&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Jain&#39;s Fairness Index&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="160" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
