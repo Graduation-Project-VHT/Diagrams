@@ -84,16 +84,19 @@
           <mxGeometry height="60" width="160" x="760" y="600" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=5;" value="" vertex="1">
-          <mxGeometry height="200" width="200" x="520" y="600" as="geometry" />
+          <mxGeometry height="220" width="200" x="440" y="600" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;traffic_gen.py&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="565" y="600" as="geometry" />
+          <mxGeometry height="50" width="110" x="485" y="600" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;iperf3&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Traffic genrator&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="540" y="640" as="geometry" />
+          <mxGeometry height="60" width="160" x="460" y="660" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;metrics push&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="540" y="720" as="geometry" />
+          <mxGeometry height="60" width="160" x="460" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-44" edge="1" parent="1" source="HErvFNz3_E6sjOjUFY8q-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HErvFNz3_E6sjOjUFY8q-43" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=11;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;CSV log&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;DL_scheduler_log.csv&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;UL_scheduler_log.csv&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="200" x="160" y="600" as="geometry" />
