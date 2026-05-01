@@ -47,7 +47,7 @@
           <mxGeometry height="220" width="280" x="120" y="320" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;MAC Scheduler&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Round Robin&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Proportional Fair&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Max C/I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;QoS-Aware&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;AI Scheduler&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;- 1ms TTI cycle -&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="240" x="140" y="370" as="geometry" />
+          <mxGeometry height="150" width="240" x="140" y="370" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;oai-enb&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;eNodeB&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="230" y="330" as="geometry" />
