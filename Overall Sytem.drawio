@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="LhuuYM8hpwFlG-GgJCtv">
-    <mxGraphModel dx="690" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HErvFNz3_E6sjOjUFY8q-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+        <mxCell id="HErvFNz3_E6sjOjUFY8q-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" value="" vertex="1">
           <mxGeometry height="140" width="840" x="100" y="120" as="geometry" />
         </mxCell>
         <mxCell id="HErvFNz3_E6sjOjUFY8q-6" edge="1" parent="1" source="HErvFNz3_E6sjOjUFY8q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HErvFNz3_E6sjOjUFY8q-2" value="">
