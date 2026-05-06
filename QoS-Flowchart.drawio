@@ -110,9 +110,6 @@
         <mxCell id="TUpqSB6NLs5IdHgZHZJo-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=48;fillColor=#f8cecc;strokeColor=#b85450;" value="TTI Start" vertex="1">
           <mxGeometry height="40" width="120" x="360" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="TUpqSB6NLs5IdHgZHZJo-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="310" y="340" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
