@@ -13,7 +13,7 @@
         <mxCell id="TUpqSB6NLs5IdHgZHZJo-22" edge="1" parent="1" source="TUpqSB6NLs5IdHgZHZJo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TUpqSB6NLs5IdHgZHZJo-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TUpqSB6NLs5IdHgZHZJo-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Get CQI - Map to MCS" vertex="1">
+        <mxCell id="TUpqSB6NLs5IdHgZHZJo-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Get CQI" vertex="1">
           <mxGeometry height="40" width="140" x="350" y="180" as="geometry" />
         </mxCell>
         <mxCell id="TUpqSB6NLs5IdHgZHZJo-23" edge="1" parent="1" source="TUpqSB6NLs5IdHgZHZJo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TUpqSB6NLs5IdHgZHZJo-21" value="">
@@ -107,7 +107,7 @@
         <mxCell id="TUpqSB6NLs5IdHgZHZJo-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="RB allocator handover" vertex="1">
           <mxGeometry height="40" width="160" x="340" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="TUpqSB6NLs5IdHgZHZJo-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=48;fillColor=#f8cecc;strokeColor=#b85450;" value="TTI Start" vertex="1">
+        <mxCell id="TUpqSB6NLs5IdHgZHZJo-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=48;fillColor=#f8cecc;strokeColor=#b85450;" value="TTI End" vertex="1">
           <mxGeometry height="40" width="120" x="360" y="780" as="geometry" />
         </mxCell>
       </root>
